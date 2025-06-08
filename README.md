@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Nashik
 * ✉️  You can contact me at [sumeetgiri0405@gmail.com](mailto:sumeetgiri0405@gmail.com)
-* 🧠  I'm learning Mashine Leaning, Deep Learning, Data Science
+* 🧠  I'm learning Machine Leaning, Deep Learning, Data Science
 * 🤝  I'm open to collaborating on Open Source Projects
 
 ### Skills
